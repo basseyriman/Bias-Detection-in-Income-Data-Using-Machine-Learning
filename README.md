@@ -36,7 +36,7 @@ The dataset is loaded using Pandas, and the first five rows are inspected:
 adult = pd.read_csv("../Dataset/adult.csv")
 adult.head()
 
-#Sample data output:
+# Sample data output:
 
 age	workclass	fnlwgt	education	...	income
 25	Private	226802	11th	...	<=50K
