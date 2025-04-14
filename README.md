@@ -1,4 +1,4 @@
-Introduction
+**Introduction**:
 This project focuses on utilizing machine learning to predict income bias in the Adult Income Dataset available on Kaggle. 
 The goal is to build a model that predicts whether an individual's income is greater than or equal to $50K or less than $50K annually based on 
 demographic information such as gender, age, work class, occupation, education, and race. By identifying potential biases in the income distribution, 
